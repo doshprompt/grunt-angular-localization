@@ -2,7 +2,6 @@
   "name": "grunt-angular-localization",
   "version": "1.0.0",
   "description": "Auto-generate resource files in different languages for angular-localization",
-  "main": "tasks/localize.js",
   "scripts": {
     "test": "grunt test"
   },
@@ -11,7 +10,13 @@
     "url": "https://github.com/doshprompt/grunt-angular-localization.git"
   },
   "keywords": [
-    "angular"
+    "angular",
+    "localization",
+    "internationalization",
+    "i18n",
+    "l10n",
+    "angularjs",
+    "angular-localization"
   ],
   "author": "Rahul Doshi",
   "license": "MIT",
@@ -20,15 +25,12 @@
   },
   "homepage": "https://github.com/doshprompt/grunt-angular-localization",
   "dependencies": {
-    "deep-sort-object": "^0.1.1",
-    "grunt-json-sort": "^1.0.1",
-    "sorted-object": "^1.0.0",
-    "sortobject": "^1.0.0"
+    "sorted-object": "^1.0.0"
   },
   "devDependencies": {
     "grunt": "^0.4.5",
     "grunt-contrib-clean": "^0.5.0",
-    "grunt-contrib-nodeunit": "^0.4.0",
+    "grunt-contrib-nodeunit": "^0.4.1",
     "load-grunt-tasks": "^0.4.0"
   }
 }
