@@ -8,15 +8,12 @@ module.exports = function (grunt) {
     grunt.initConfig({
         localize: {
             options: {
-                defaultLocale: 'en-US',
                 basePath: 'tests/languages',
-                fileExtension: '.lang.json',
                 locales: [
                     'fr-FR',
                     'jp-JP'
                 ]
-            },
-            files: ['tests/languages/en-US/**/*.lang.json']
+            }
         },
 
         clean: {
