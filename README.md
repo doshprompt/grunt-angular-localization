@@ -93,7 +93,7 @@ Default value: `[]`
 
 The various other languages that you want to support within your app (specified as language tags).
 
-### Usage Example
+### Usage Examples
 
 If you are following a best-practices directory structure and keeping the default `ngLocalize` configuration,
 then you need only to set the locales that you wish to support.
