@@ -7,6 +7,8 @@
 
 > Used in conjunction with the excellent [angular-localization](http://doshprompt.github.io/angular-localization)
 
+[![NPM](https://nodei.co/npm/grunt-angular-localization.png?downloads=true)](https://nodei.co/npm/grunt-angular-localization/)
+
 ## Community
 
 If you have any problems setting up or using `grunt-angular-localization`, open an issue. I would be happy to help.
