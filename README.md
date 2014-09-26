@@ -145,8 +145,9 @@ Please refer to this [document][commit-message-format] for a detailed explanatio
 [commit-message-format]: https://docs.google.com/document/d/1QrDFcIiPjSLDn3EL15IJygNPiHORgU1_OOAqWjiDU5Y/edit#
 
 ## Release History
-    
- * 2014-09-23  v1.0.0   First version!
+
+ * 2014-09-26   v1.0.1  Update README    
+ * 2014-09-23   v1.0.0  First version!
 
 ---
 
