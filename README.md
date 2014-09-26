@@ -31,7 +31,7 @@ Once the plugin has been installed, it may be enabled inside your Gruntfile with
 grunt.loadNpmTasks('grunt-angular-localization');
 ```
 
-## The "htmlangularPrepare" task
+## The "localize" task
 
 ### Overview
 
