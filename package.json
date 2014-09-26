@@ -1,6 +1,6 @@
 {
   "name": "grunt-angular-localization",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Auto-generate resource files in different languages for angular-localization",
   "scripts": {
     "test": "grunt test"
